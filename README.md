@@ -3,14 +3,17 @@
 ## Server
 ### Linux
 ### Http
-### shell
-### awk
-### vim
+### Shell
+### Awk
+### Vim
 
 ## Coding
 ### Python
 ### Java
 ### R
+### TensorFlow
+### Caffe
+### Cuda
 
 ## Algorithm
 ### Data Mining
