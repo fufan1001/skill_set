@@ -12,10 +12,11 @@
 ### Java
 ### R
 
-## algorithm
-### data mining
-### deep learning
-### nlp
+## Algorithm
+### Data Mining
+### Deep Learning
+### NLP
+### Image
 
 ## DataBase
 ### MySQL
