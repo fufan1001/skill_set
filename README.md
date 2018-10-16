@@ -1,12 +1,32 @@
-# skill_set
+# Skill Set
 
-## server
-## coding
-### python
-### java
+## Server
+### Linux
+### Http
+### shell
+### awk
+### vim
+
+## Coding
+### Python
+### Java
+### R
 
 ## algorithm
 ### data mining
 ### deep learning
 ### nlp
-## tools
+
+## DataBase
+### MySQL
+### MongoDB
+### PostgreSQL
+### Redis
+### Hive
+
+## Tools
+### Git
+### Markdown
+### Sublime
+### Pycharm
+### Intellij
