@@ -9,6 +9,19 @@
 
 ## Coding
 ### Python
+#### Bulit_in function
+#### Data Structrue
+#### Iterator
+#### Generator
+#### Decorator
+#### Closure
+#### Property
+#### Process
+#### Thread
+#### Coroutine
+#### Flask
+#### Tornado
+
 ### Java
 ### R
 ### TensorFlow
