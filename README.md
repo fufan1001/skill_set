@@ -42,6 +42,7 @@
 ### Hive
 
 ## Tools
+### Regular Expression
 ### Git
 ### Markdown
 ### Sublime
