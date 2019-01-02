@@ -6,6 +6,7 @@
 ### Shell
 ### Awk
 ### Vim
+### Git
 
 ## Coding
 ### Python
