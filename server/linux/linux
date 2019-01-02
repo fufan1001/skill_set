@@ -1,0 +1,7 @@
+
+
+cat top_action.txt | awk 'BEGIN {sum=0; x=0; y=0; FS="\t"; OFS="\t";} {if ($1 == "chat.chat") {x = $2;} if ($1 == "chat.nonsense") {y = $2;} sum += $2} END {print sum, x, y, x * 100.0 / sum, y *100.0 / sum;}'
+
+cat raw_10.21.9.18.log | grep 请求结束 | tail -n 200 | grep '[0-9]\{4,7\}.[0-9][0-9] ms'
+
+/data/workspace/python3_space/offline_nlu_oss/process_normandy_daily_log
