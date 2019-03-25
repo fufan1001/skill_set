@@ -3,3 +3,5 @@ traceroute  www.baidu.com
 
 出现*号原因
 有些防止检测路由器的奇技淫巧比如禁用 ICMP.. 通常 TP-Link 最喜欢瞎搞了
+应该是你这运营商劫持了 ICMP 协议，不想让你发现你的真实网络情况
+
