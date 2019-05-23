@@ -1,3 +1,4 @@
+```
 # 总核数 = 物理CPU个数 X 每颗物理CPU的核数 
 # 总逻辑CPU数 = 物理CPU个数 X 每颗物理CPU的核数 X 超线程数
 
@@ -13,3 +14,4 @@ cat /proc/cpuinfo| grep "processor"| wc -l
 
  查看CPU信息（型号）
 cat /proc/cpuinfo | grep name | cut -f2 -d: | uniq -c
+```
