@@ -1,6 +1,6 @@
 ## 数据结构
 
-![图谱](./data_structrue.jpg)
+![图谱](./image/data_structrue.jpg)
 
 **重点**：
 > 数据结构：数组、链表、栈、队列、散列表、二叉树、堆、跳表、图、Trie；
