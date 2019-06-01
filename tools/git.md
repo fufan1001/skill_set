@@ -28,3 +28,9 @@ git push origin :分支名
 	5. git clone目标仓库到本地;
 
 原理：将原仓库的.git目录复制目标仓库里，目标仓库自然就包含了原仓库所有的提交、分支、tag记录；
+
+### git set alias
+$ git config --global alias.co checkout
+$ git config --global alias.br branch
+$ git config --global alias.ci commit
+$ git config --global alias.st status
