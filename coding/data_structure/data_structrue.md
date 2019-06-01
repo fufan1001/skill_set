@@ -1,7 +1,6 @@
 # 数据结构
-## Focus
 
-### 知识结构
+## 一、知识结构
 ![图谱](./image/data_structrue.jpg)
 
 **重点**：
