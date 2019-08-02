@@ -13,7 +13,7 @@
 
 ## Python
 #### Web:
-1、WSGI与uWSGI区别？
+1、WSGI与uWSGI，uwsgi区别？
 
 ## Java
 
