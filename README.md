@@ -1,5 +1,4 @@
 # Skill Set
----
 ## Server
 ### Linux
 ### Shell
