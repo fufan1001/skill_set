@@ -13,11 +13,14 @@
 
 ## Python
 
-
 ## Web:
 1、WSGI与uWSGI，uwsgi区别？<br>
 2、cookie与session关系及区别？
 https://www.jianshu.com/p/25802021be63
+
+## DB
+为什么说MQ的比HTTP是高可靠的？
+mq的设计目的就是消息传输，保证不丢失，为此用了很多的手段，比如消息队列、路由、存储等等。而http的目的不在于此，它的可靠性基于tcp，而tcp不能保证消息100%发送。
 
 ## Java
 
